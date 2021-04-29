@@ -1,0 +1,29 @@
+body 
+{
+	background-color: #ffb3b3;
+	font-family: sans-serif;
+}
+h2
+{
+	font-size: 20px;
+	text-align: center;
+	text-decoration: underline;
+}
+
+p
+{
+	font-size: 30pt;
+	color: #000099;
+	font-weight: bold;
+	text-align: center;
+} 
+
+
+
+table, th, td 
+{
+	margin-left: 35%;
+	font-size: 20px;
+  	border: 2px solid #000000;
+  	text-align: center;
+}
