@@ -1,0 +1,20 @@
+ body
+           {
+            background-image: url("background.jpeg");
+            background-repeat: no-repeat;
+            background-size: cover;
+            opacity: 0.8;
+           }
+            div {
+                box-sizing: border-box;
+                width: 100%;
+                border: 100px solid black;
+                float: left;
+                align-content: center;
+                align-items: center;
+            }
+  
+            form {
+                margin-left: 10%;
+                width: 600px;
+            }
